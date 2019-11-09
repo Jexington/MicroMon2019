@@ -1,0 +1,10 @@
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.csprojAssemblyReference.cache
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.frmMicroMon.resources
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.Properties.Resources.resources
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.csproj.GenerateResource.cache
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.csproj.CoreCompileInputs.cache
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\bin\Debug\MicroMon2019.exe.config
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\bin\Debug\MicroMon2019.exe
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\bin\Debug\MicroMon2019.pdb
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.exe
+C:\Users\Jexou\source\repos\MicroMon2019\MicroMon2019\obj\Debug\MicroMon2019.pdb
